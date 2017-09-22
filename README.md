@@ -5,4 +5,4 @@
 
 **Running the code:**
 <br>Edit number of normal and attacker nodes in main.py
-<br>python main.py
+<pre><br>python main.py</pre>
